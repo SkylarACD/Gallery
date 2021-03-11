@@ -1,0 +1,16 @@
+---
+title: Cancer Literature Graph
+subtitle: Grakn Knowledge Graph
+layout: default
+modal-id: 1
+date: 2020-01-01
+img: graph1.png
+iframe:
+graphheight: 0px
+graphwidth: 0px
+thumbnail: graph1-thumbnail.png
+alt: image-alt
+description: We use Grakn Knowledge Graphs to organize and analyze deep tech data streams. One such stream is cancer data publications. There are thousands of publications on every type of cancer making the body of literature hard to understand. In this graph we organized papers about chemotherapy side effects in pancreatic cancer and found a prominent group of papers that mentioned one chemotherapy agent Gemcitabine that can cause severe side effects and a closely related molecule Deoxycytidine that can interfere with its activity.
+
+
+---

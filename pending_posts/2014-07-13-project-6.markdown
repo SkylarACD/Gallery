@@ -1,0 +1,17 @@
+---
+title: Pending Graph
+subtitle: Development in Progress
+layout: default
+modal-id: 6
+category_url: http://austincapitaldata.com
+date: 01-01-01
+img: ComingSoon.png
+iframe:
+thumbnail: ComingSoon-Thumbnail.png
+alt: image-alt
+project-date: January 2001
+client: 
+category: 
+description: 
+
+---
