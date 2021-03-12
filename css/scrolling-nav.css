@@ -3,8 +3,8 @@
  * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
-header {
-  background-image: url(img/header-bg.jpg);
+#header {
+  background: url(img/header-bg.jpg);
 }
 
 section {
